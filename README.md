@@ -7,3 +7,4 @@
 6. hello를 입력하면 hello world가 출력된다.
 7. pwd를 입력하면 현재 작업경로가 출력된다.
 8. exit를 입력하면 종료된다.
+# 위키 : https://github.com/JaeYoungKim1/Term-project_Myshell/wiki
